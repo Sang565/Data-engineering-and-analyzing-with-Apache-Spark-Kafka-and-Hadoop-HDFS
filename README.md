@@ -1,4 +1,4 @@
-# Stream processing and storing with Kafka, Spark and HDFS
+# Data engineering and analyzing with Apache Spark, Kafka, and Hadoop HDFS
 This Spark-based code is run at the A-Fog (Analytics Fog) tier in our proposed multi-layer stream and big data analytics platform to catch carparks’ occupancies data streamed from multiple S-Fog systems, then store these data in the A-Fog’s HDFS for long-term data storage and large-scale data analytics later. 
 <br />
 
